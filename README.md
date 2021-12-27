@@ -1,2 +1,2 @@
 # 9bob.github.io
-new website
+this is the new (and better) website I made in about 5 minutes
